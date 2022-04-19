@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1650382642975" clover="3.2.0">
+  <project timestamp="1650382642975" name="All files">
+    <metrics statements="40" coveredstatements="40" conditionals="1" coveredconditionals="1" methods="21" coveredmethods="21" elements="62" coveredelements="62" complexity="0" loc="40" ncloc="40" packages="2" files="6" classes="6"/>
+    <package name="entities">
+      <metrics statements="36" coveredstatements="36" conditionals="1" coveredconditionals="1" methods="19" coveredmethods="19"/>
+      <file name="Customer.ts" path="/home/matheus/Desktop/matheusDEV/cursoUdemy/Secao17-TypeScript/JEST/src/entities/Customer.ts">
+        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+      </file>
+      <file name="Order.ts" path="/home/matheus/Desktop/matheusDEV/cursoUdemy/Secao17-TypeScript/JEST/src/entities/Order.ts">
+        <metrics statements="12" coveredstatements="12" conditionals="1" coveredconditionals="1" methods="3" coveredmethods="3"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="22" count="5" type="cond" truecount="1" falsecount="0"/>
+        <line num="23" count="4" type="stmt"/>
+        <line num="24" count="4" type="stmt"/>
+        <line num="27" count="4" type="stmt"/>
+        <line num="28" count="4" type="stmt"/>
+      </file>
+      <file name="Product.ts" path="/home/matheus/Desktop/matheusDEV/cursoUdemy/Secao17-TypeScript/JEST/src/entities/Product.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+      <file name="ShoppingCart.ts" path="/home/matheus/Desktop/matheusDEV/cursoUdemy/Secao17-TypeScript/JEST/src/entities/ShoppingCart.ts">
+        <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="9"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="8" count="9" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="16" count="5" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="21" count="4" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="services">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="Messaging.ts" path="/home/matheus/Desktop/matheusDEV/cursoUdemy/Secao17-TypeScript/JEST/src/services/Messaging.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+      </file>
+      <file name="Persistency.ts" path="/home/matheus/Desktop/matheusDEV/cursoUdemy/Secao17-TypeScript/JEST/src/services/Persistency.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
